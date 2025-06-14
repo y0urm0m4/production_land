@@ -4,7 +4,6 @@ import './style.css';
 
 import { gsap } from "gsap";
 import { RoughEase } from "gsap/EasePack";
-
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 // ScrollSmoother requires ScrollTrigger
 import { ScrollSmoother } from "gsap/ScrollSmoother";
