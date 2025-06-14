@@ -1,0 +1,32 @@
+{
+  "name": "ok-production",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "@barba/core": "^2.10.3",
+    "@tailwindcss/vite": "^4.1.8",
+    "autoprefixer": "^10.4.21",
+    "gsap": "^3.13.0",
+    "just-validate": "^4.3.0",
+    "lazysizes": "^5.3.2",
+    "locomotive-scroll": "^4.1.4",
+    "micromodal": "^0.6.1",
+    "postcss": "^8.5.4",
+    "swiper": "^11.2.8",
+    "tailwindcss": "^4.1.8"
+  },
+  "main": "vite.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
